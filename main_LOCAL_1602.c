@@ -8,11 +8,7 @@ Initial Function()
 Initial Security()
 {
  //Sample Code
-<<<<<<< HEAD
  //Feature1 security path
-=======
- //Feature2 code
->>>>>>> feature2
 }
 
 
